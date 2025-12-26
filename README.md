@@ -1,4 +1,4 @@
-# Tempo - Mobile App
+# Mobile App (Flutter)
 
 This is a comprehensive mobile application built with Flutter, designed to manage content and user interactions effectively.
 
